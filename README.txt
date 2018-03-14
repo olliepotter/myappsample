@@ -1,1 +1,0 @@
-This is a nice 'readme' file that tells you what this repository is all about
